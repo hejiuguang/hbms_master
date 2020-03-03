@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity
     }
 
 
-    //添加测试而已
+    //添加测试888888888
     public void flyto(View view)
     {
 
