@@ -29,18 +29,9 @@ public class MainActivity extends AppCompatActivity
 
         Toast.makeText (getApplicationContext (),"稍后就出来",Toast.LENGTH_SHORT).show ();
 
-      //   startActivity (new Intent (this, LoginActivity.class));
+       startActivity (new Intent (this, LoginActivity.class));
 
     }
 
 
-    public class UserLoginTask extends AsyncTask<Void, Void, Boolean>{
-
-
-        @Override
-        protected Boolean doInBackground(Void... voids)
-        {
-            return null;
-        }
-    }
 }
