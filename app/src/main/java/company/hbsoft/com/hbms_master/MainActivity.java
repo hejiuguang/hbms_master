@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity
         setContentView (R.layout.activity_main);
     }
 
+
+    //添加测试而已
     public void flyto(View view)
     {
 
